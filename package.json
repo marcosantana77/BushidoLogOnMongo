@@ -1,0 +1,15 @@
+{
+  "name": "bushidolog",
+  "description": "Test II Chaordic",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "bson": "*",
+    "cloneextend": "*",
+    "mongodb": "*",
+    "readline": "*"
+  }
+}
